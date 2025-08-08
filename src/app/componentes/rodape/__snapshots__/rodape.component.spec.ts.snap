@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RodapeComponent deveria renderizar o conteúdo baseado nas propriedades src e alt 1`] = `
+RodapeComponent {
+  "__ngContext__": 4,
+  "alt": "Imagem de exemplo",
+  "src": "../../../assets/imagens/image.png",
+}
+`;
